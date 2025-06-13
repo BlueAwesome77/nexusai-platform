@@ -21,3 +21,5 @@ A comprehensive AI platform providing text, image, and speech generation service
 2. Install dependencies:
    ```bash
    npm install
+## Quick Setup
+After installation, run: `npx shadcn-ui@latest init` to install UI components
