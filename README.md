@@ -1,2 +1,23 @@
 # nexusai-platform
 Multi-modal AI content generation platform - free distribution
+A comprehensive AI platform providing text, image, and speech generation services with a professional cyberpunk-themed interface.
+## Features
+- **Text Generation**: X.AI/Grok and OpenAI integration
+- **Image Generation**: Stability AI (SDXL) with OpenAI fallback
+- **Speech Synthesis**: ElevenLabs with multiple voice options
+- **Voice Cloning**: Custom voice training capabilities
+- **Professional UI**: Cyberpunk-themed responsive design
+## Prerequisites
+- Node.js (v18 or higher)
+- PostgreSQL database (optional - can use memory storage)
+- API Keys for AI services
+## API Keys Required
+1. **X.AI/Grok**: Get from https://console.x.ai/
+2. **OpenAI**: Get from https://platform.openai.com/api-keys
+3. **Stability AI**: Get from https://platform.stability.ai/account/keys
+4. **ElevenLabs**: Get from https://elevenlabs.io/app/settings/api-keys
+## Installation
+1. Clone or download this repository
+2. Install dependencies:
+   ```bash
+   npm install
